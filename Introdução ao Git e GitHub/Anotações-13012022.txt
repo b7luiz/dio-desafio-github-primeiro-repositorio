@@ -1,0 +1,4 @@
+Download GIT: https://git-scm.com/download/win
+Plataforma DIO: https://www.dio.me/sign-in
+Download Typora: https://typora.io/
+
